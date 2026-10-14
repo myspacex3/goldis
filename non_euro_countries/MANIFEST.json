@@ -1,0 +1,1195 @@
+[
+  {
+    "code": "CZ",
+    "slug": "Czechia",
+    "label": "Tchéquie",
+    "language": "cs",
+    "language_label": "Tchèque",
+    "locale": "cs-CZ",
+    "dial": "+420",
+    "currency": "CZK",
+    "symbol": "Kč",
+    "rate": 24.37137217,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Česko",
+    "file": "PrimeTV_Premium_Czechia_CZ.zip",
+    "bytes": 29276737,
+    "sha256": "48c54c4a9ad5d2391f0b905e423ba4acf54c6aa234140f8988742c824e67d5cb",
+    "currency_symbol": "Kč",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "CZK",
+      "symbol": "Kč",
+      "rate_per_eur": 24.37137217,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "CZK": "365.57",
+          "display": "365,57 Kč"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "CZK": "622.69",
+          "display": "622,69 Kč"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "CZK": "730.90",
+          "display": "730,90 Kč"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "CZK": "877.13",
+          "display": "877,13 Kč"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "CZK": "1110.12",
+          "display": "1 110,12 Kč"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "CZK": "1218.32",
+          "display": "1 218,32 Kč"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "CZK": "1462.04",
+          "display": "1 462,04 Kč"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "CZK": "1949.47",
+          "display": "1 949,47 Kč"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "CZK": "2572.40",
+          "display": "2 572,40 Kč"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "CZK": "2997.44",
+          "display": "2 997,44 Kč"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "CZK": "4874.03",
+          "display": "4 874,03 Kč"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "389.70",
+          "3 Months": "852.75",
+          "6 Months": "1462.04",
+          "12 Months": "1949.47"
+        },
+        "2 Devices": {
+          "1 Month": "535.93",
+          "3 Months": "1340.18",
+          "6 Months": "1949.47",
+          "12 Months": "2924.32"
+        },
+        "3 Devices": {
+          "1 Month": "755.27",
+          "3 Months": "1705.75",
+          "6 Months": "2339.41",
+          "12 Months": "4264.75"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "CZ",
+      "locale": "cs-CZ",
+      "callingCode": "+420",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "DK",
+    "slug": "Denmark",
+    "label": "Danemark",
+    "language": "da",
+    "language_label": "Danois",
+    "locale": "da-DK",
+    "dial": "+45",
+    "currency": "DKK",
+    "symbol": "kr.",
+    "rate": 7.47515463,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Danmark",
+    "file": "PrimeTV_Premium_Denmark_DK.zip",
+    "bytes": 29319789,
+    "sha256": "89315b303bfb95db7cbf60bb203f473c8887771ad5f669d8f182a5b944bbe4a2",
+    "currency_symbol": "kr.",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "DKK",
+      "symbol": "kr.",
+      "rate_per_eur": 7.47515463,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "DKK": "112.13",
+          "display": "112,13 kr."
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "DKK": "190.99",
+          "display": "190,99 kr."
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "DKK": "224.18",
+          "display": "224,18 kr."
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "DKK": "269.03",
+          "display": "269,03 kr."
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "DKK": "340.49",
+          "display": "340,49 kr."
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "DKK": "373.68",
+          "display": "373,68 kr."
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "DKK": "448.43",
+          "display": "448,43 kr."
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "DKK": "597.94",
+          "display": "597,94 kr."
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "DKK": "789.00",
+          "display": "789,00 kr."
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "DKK": "919.37",
+          "display": "919,37 kr."
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "DKK": "1494.96",
+          "display": "1.494,96 kr."
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "119.53",
+          "3 Months": "261.56",
+          "6 Months": "448.43",
+          "12 Months": "597.94"
+        },
+        "2 Devices": {
+          "1 Month": "164.38",
+          "3 Months": "411.06",
+          "6 Months": "597.94",
+          "12 Months": "896.94"
+        },
+        "3 Devices": {
+          "1 Month": "231.66",
+          "3 Months": "523.19",
+          "6 Months": "717.54",
+          "12 Months": "1308.08"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "DK",
+      "locale": "da-DK",
+      "callingCode": "+45",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "HU",
+    "slug": "Hungary",
+    "label": "Hongrie",
+    "language": "hu",
+    "language_label": "Hongrois",
+    "locale": "hu-HU",
+    "dial": "+36",
+    "currency": "HUF",
+    "symbol": "Ft",
+    "rate": 364.882647,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Magyarország",
+    "file": "PrimeTV_Premium_Hungary_HU.zip",
+    "bytes": 29367462,
+    "sha256": "cbf45e57b1c51670696fc43d604b6e1d52db3b48a7363d382a01bd8dfc82cefe",
+    "currency_symbol": "Ft",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "HUF",
+      "symbol": "Ft",
+      "rate_per_eur": 364.882647,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "HUF": "5473.24",
+          "display": "5473,24 Ft"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "HUF": "9322.75",
+          "display": "9322,75 Ft"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "HUF": "10942.83",
+          "display": "10 942,83 Ft"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "HUF": "13132.13",
+          "display": "13 132,13 Ft"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "HUF": "16620.40",
+          "display": "16 620,40 Ft"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "HUF": "18240.48",
+          "display": "18 240,48 Ft"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "HUF": "21889.31",
+          "display": "21 889,31 Ft"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "HUF": "29186.96",
+          "display": "29 186,96 Ft"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "HUF": "38513.36",
+          "display": "38 513,36 Ft"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "HUF": "44876.92",
+          "display": "44 876,92 Ft"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "HUF": "72972.88",
+          "display": "72 972,88 Ft"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "5834.47",
+          "3 Months": "12767.24",
+          "6 Months": "21889.31",
+          "12 Months": "29186.96"
+        },
+        "2 Devices": {
+          "1 Month": "8023.77",
+          "3 Months": "20064.90",
+          "6 Months": "29186.96",
+          "12 Months": "43782.27"
+        },
+        "3 Devices": {
+          "1 Month": "11307.71",
+          "3 Months": "25538.14",
+          "6 Months": "35025.09",
+          "12 Months": "63850.81"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "HU",
+      "locale": "hu-HU",
+      "callingCode": "+36",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "PL",
+    "slug": "Poland",
+    "label": "Pologne",
+    "language": "pl",
+    "language_label": "Polonais",
+    "locale": "pl-PL",
+    "dial": "+48",
+    "currency": "PLN",
+    "symbol": "zł",
+    "rate": 4.38666401,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Polska",
+    "file": "PrimeTV_Premium_Poland_PL.zip",
+    "bytes": 29349268,
+    "sha256": "41a6a48c81b24a478bbad0dcd2c1ebb477ceaaaec660ea8e4bdf66641f483926",
+    "currency_symbol": "zł",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "PLN",
+      "symbol": "zł",
+      "rate_per_eur": 4.38666401,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "PLN": "65.80",
+          "display": "65,80 zł"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "PLN": "112.08",
+          "display": "112,08 zł"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "PLN": "131.56",
+          "display": "131,56 zł"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "PLN": "157.88",
+          "display": "157,88 zł"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "PLN": "199.81",
+          "display": "199,81 zł"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "PLN": "219.29",
+          "display": "219,29 zł"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "PLN": "263.16",
+          "display": "263,16 zł"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "PLN": "350.89",
+          "display": "350,89 zł"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "PLN": "463.01",
+          "display": "463,01 zł"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "PLN": "539.52",
+          "display": "539,52 zł"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "PLN": "877.29",
+          "display": "877,29 zł"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "70.14",
+          "3 Months": "153.49",
+          "6 Months": "263.16",
+          "12 Months": "350.89"
+        },
+        "2 Devices": {
+          "1 Month": "96.46",
+          "3 Months": "241.22",
+          "6 Months": "350.89",
+          "12 Months": "526.36"
+        },
+        "3 Devices": {
+          "1 Month": "135.94",
+          "3 Months": "307.02",
+          "6 Months": "421.08",
+          "12 Months": "767.62"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "PL",
+      "locale": "pl-PL",
+      "callingCode": "+48",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "RO",
+    "slug": "Romania",
+    "label": "Roumanie",
+    "language": "ro",
+    "language_label": "Roumain",
+    "locale": "ro-RO",
+    "dial": "+40",
+    "currency": "RON",
+    "symbol": "lei",
+    "rate": 5.3344448,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "România",
+    "file": "PrimeTV_Premium_Romania_RO.zip",
+    "bytes": 29358926,
+    "sha256": "85c5c6fba315d4929395e55f24f26d8d64d5252ece8df626eadd131cbda0c959",
+    "currency_symbol": "lei",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "RON",
+      "symbol": "lei",
+      "rate_per_eur": 5.3344448,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "RON": "80.02",
+          "display": "80,02 lei"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "RON": "136.30",
+          "display": "136,30 lei"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "RON": "159.98",
+          "display": "159,98 lei"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "RON": "191.99",
+          "display": "191,99 lei"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "RON": "242.98",
+          "display": "242,98 lei"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "RON": "266.67",
+          "display": "266,67 lei"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "RON": "320.01",
+          "display": "320,01 lei"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "RON": "426.70",
+          "display": "426,70 lei"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "RON": "563.05",
+          "display": "563,05 lei"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "RON": "656.08",
+          "display": "656,08 lei"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "RON": "1066.84",
+          "display": "1.066,84 lei"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "85.30",
+          "3 Months": "186.65",
+          "6 Months": "320.01",
+          "12 Months": "426.70"
+        },
+        "2 Devices": {
+          "1 Month": "117.30",
+          "3 Months": "293.34",
+          "6 Months": "426.70",
+          "12 Months": "640.08"
+        },
+        "3 Devices": {
+          "1 Month": "165.31",
+          "3 Months": "373.36",
+          "6 Months": "512.05",
+          "12 Months": "933.47"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "RO",
+      "locale": "ro-RO",
+      "callingCode": "+40",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "SE",
+    "slug": "Sweden",
+    "label": "Suède",
+    "language": "sv",
+    "language_label": "Suédois",
+    "locale": "sv-SE",
+    "dial": "+46",
+    "currency": "SEK",
+    "symbol": "kr",
+    "rate": 11.20040451,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Sverige",
+    "file": "PrimeTV_Premium_Sweden_SE.zip",
+    "bytes": 29313995,
+    "sha256": "88cb4d448ec05837970d16f6912341f01fa89fa0797a488db173353944d89a6a",
+    "currency_symbol": "kr",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "SEK",
+      "symbol": "kr",
+      "rate_per_eur": 11.20040451,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "SEK": "168.01",
+          "display": "168,01 kr"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "SEK": "286.17",
+          "display": "286,17 kr"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "SEK": "335.90",
+          "display": "335,90 kr"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "SEK": "403.10",
+          "display": "403,10 kr"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "SEK": "510.18",
+          "display": "510,18 kr"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "SEK": "559.91",
+          "display": "559,91 kr"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "SEK": "671.91",
+          "display": "671,91 kr"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "SEK": "895.92",
+          "display": "895,92 kr"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "SEK": "1182.20",
+          "display": "1 182,20 kr"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "SEK": "1377.54",
+          "display": "1 377,54 kr"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "SEK": "2239.97",
+          "display": "2 239,97 kr"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "179.09",
+          "3 Months": "391.90",
+          "6 Months": "671.91",
+          "12 Months": "895.92"
+        },
+        "2 Devices": {
+          "1 Month": "246.30",
+          "3 Months": "615.91",
+          "6 Months": "895.92",
+          "12 Months": "1343.94"
+        },
+        "3 Devices": {
+          "1 Month": "347.10",
+          "3 Months": "783.92",
+          "6 Months": "1075.13",
+          "12 Months": "1959.96"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "SE",
+      "locale": "sv-SE",
+      "callingCode": "+46",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "GB",
+    "slug": "United_Kingdom",
+    "label": "Royaume-Uni",
+    "language": "en",
+    "language_label": "Anglais britannique",
+    "locale": "en-GB",
+    "dial": "+44",
+    "currency": "GBP",
+    "symbol": "£",
+    "rate": 0.84520585,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "bundle": "en_gb",
+    "native_name": "United Kingdom",
+    "file": "PrimeTV_Premium_United_Kingdom_GB.zip",
+    "bytes": 29308059,
+    "sha256": "acb19dc5494fc84d0a2e2176364499932486a2c82e86831e32635044a5534656",
+    "currency_symbol": "£",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "GBP",
+      "symbol": "£",
+      "rate_per_eur": 0.84520585,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "GBP": "12.68",
+          "display": "£12.68"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "GBP": "21.60",
+          "display": "£21.60"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "GBP": "25.35",
+          "display": "£25.35"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "GBP": "30.42",
+          "display": "£30.42"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "GBP": "38.50",
+          "display": "£38.50"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "GBP": "42.25",
+          "display": "£42.25"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "GBP": "50.70",
+          "display": "£50.70"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "GBP": "67.61",
+          "display": "£67.61"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "GBP": "89.21",
+          "display": "£89.21"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "GBP": "103.95",
+          "display": "£103.95"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "GBP": "169.03",
+          "display": "£169.03"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "13.51",
+          "3 Months": "29.57",
+          "6 Months": "50.70",
+          "12 Months": "67.61"
+        },
+        "2 Devices": {
+          "1 Month": "18.59",
+          "3 Months": "46.48",
+          "6 Months": "67.61",
+          "12 Months": "101.42"
+        },
+        "3 Devices": {
+          "1 Month": "26.19",
+          "3 Months": "59.16",
+          "6 Months": "81.13",
+          "12 Months": "147.90"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "GB",
+      "locale": "en-GB",
+      "callingCode": "+44",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "NO",
+    "slug": "Norway",
+    "label": "Norvège",
+    "language": "nb",
+    "language_label": "Norvégien (bokmål)",
+    "locale": "nb-NO",
+    "dial": "+47",
+    "currency": "NOK",
+    "symbol": "kr",
+    "rate": 10.69683298,
+    "rate_date": "2026-10-13",
+    "decimals": 2,
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "native_name": "Norge",
+    "file": "PrimeTV_Premium_Norway_NO.zip",
+    "bytes": 29335001,
+    "sha256": "5dddd78fe3427d7eeac2bbadc1a4e0bb83045b1a8049d4c016236d9527554778",
+    "currency_symbol": "kr",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "NOK",
+      "symbol": "kr",
+      "rate_per_eur": 10.69683298,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "NOK": "160.45",
+          "display": "160,45 kr"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "NOK": "273.30",
+          "display": "273,30 kr"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "NOK": "320.80",
+          "display": "320,80 kr"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "NOK": "384.98",
+          "display": "384,98 kr"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "NOK": "487.24",
+          "display": "487,24 kr"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "NOK": "534.73",
+          "display": "534,73 kr"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "NOK": "641.70",
+          "display": "641,70 kr"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "NOK": "855.64",
+          "display": "855,64 kr"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "NOK": "1129.05",
+          "display": "1 129,05 kr"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "NOK": "1315.60",
+          "display": "1 315,60 kr"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "NOK": "2139.26",
+          "display": "2 139,26 kr"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "171.04",
+          "3 Months": "374.28",
+          "6 Months": "641.70",
+          "12 Months": "855.64"
+        },
+        "2 Devices": {
+          "1 Month": "235.22",
+          "3 Months": "588.22",
+          "6 Months": "855.64",
+          "12 Months": "1283.51"
+        },
+        "3 Devices": {
+          "1 Month": "331.49",
+          "3 Months": "748.67",
+          "6 Months": "1026.79",
+          "12 Months": "1871.84"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "NO",
+      "locale": "nb-NO",
+      "callingCode": "+47",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  }
+]
