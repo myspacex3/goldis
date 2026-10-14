@@ -1,0 +1,916 @@
+[
+  {
+    "code": "AE",
+    "slug": "United_Arab_Emirates",
+    "label": "United Arab Emirates",
+    "language": "ar",
+    "language_label": "Arabic",
+    "locale": "ar-AE",
+    "dial": "+971",
+    "currency": "AED",
+    "symbol": "د.إ",
+    "bundle": "ar",
+    "currency_position": "suffix",
+    "rate": 4.10406111,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "direction": "rtl",
+    "native_name": "الإمارات العربية المتحدة",
+    "file": "PrimeTV_Premium_United_Arab_Emirates_AE.zip",
+    "bytes": 29165527,
+    "sha256": "b83c84cd181cb06d566bae2c7ac624cd20ac637b5dd4e151147d9bfca96b38e0",
+    "currency_symbol": "د.إ",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "AED",
+      "symbol": "د.إ",
+      "rate_per_eur": 4.10406111,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "AED": "61.56",
+          "display": "61.56 د.إ"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "AED": "104.86",
+          "display": "104.86 د.إ"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "AED": "123.08",
+          "display": "123.08 د.إ"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "AED": "147.71",
+          "display": "147.71 د.إ"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "AED": "186.94",
+          "display": "186.94 د.إ"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "AED": "205.16",
+          "display": "205.16 د.إ"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "AED": "246.20",
+          "display": "246.20 د.إ"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "AED": "328.28",
+          "display": "328.28 د.إ"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "AED": "433.18",
+          "display": "433.18 د.إ"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "AED": "504.76",
+          "display": "504.76 د.إ"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "AED": "820.77",
+          "display": "820.77 د.إ"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "65.62",
+          "3 Months": "143.60",
+          "6 Months": "246.20",
+          "12 Months": "328.28"
+        },
+        "2 Devices": {
+          "1 Month": "90.25",
+          "3 Months": "225.68",
+          "6 Months": "328.28",
+          "12 Months": "492.45"
+        },
+        "3 Devices": {
+          "1 Month": "127.18",
+          "3 Months": "287.24",
+          "6 Months": "393.95",
+          "12 Months": "718.17"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "AE",
+      "locale": "ar-AE",
+      "callingCode": "+971",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "CO",
+    "slug": "Colombia",
+    "label": "Colombia",
+    "language": "es",
+    "language_label": "Colombian Spanish",
+    "locale": "es-CO",
+    "dial": "+57",
+    "currency": "COP",
+    "symbol": "$",
+    "bundle": "es_co",
+    "currency_position": "prefix",
+    "rate": 3571.83818375,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "native_name": "Colombia",
+    "file": "PrimeTV_Premium_Colombia_CO.zip",
+    "bytes": 29321411,
+    "sha256": "e46e376e4ef61c63231c0a1c3aa2aa7279e85187686d89ebcef787fd225e7b48",
+    "currency_symbol": "$",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "COP",
+      "symbol": "$",
+      "rate_per_eur": 3571.83818375,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "COP": "53577.57",
+          "display": "$ 53.577,57"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "COP": "91260.47",
+          "display": "$ 91.260,47"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "COP": "107119.43",
+          "display": "$ 107.119,43"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "COP": "128550.46",
+          "display": "$ 128.550,46"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "COP": "162697.23",
+          "display": "$ 162.697,23"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "COP": "178556.19",
+          "display": "$ 178.556,19"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "COP": "214274.57",
+          "display": "$ 214.274,57"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "COP": "285711.34",
+          "display": "$ 285.711,34"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "COP": "377007.52",
+          "display": "$ 377.007,52"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "COP": "439300.38",
+          "display": "$ 439.300,38"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "COP": "714331.92",
+          "display": "$ 714.331,92"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "57113.69",
+          "3 Months": "124978.62",
+          "6 Months": "214274.57",
+          "12 Months": "285711.34"
+        },
+        "2 Devices": {
+          "1 Month": "78544.72",
+          "3 Months": "196415.38",
+          "6 Months": "285711.34",
+          "12 Months": "428584.86"
+        },
+        "3 Devices": {
+          "1 Month": "110691.27",
+          "3 Months": "249992.95",
+          "6 Months": "342860.75",
+          "12 Months": "625035.96"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "CO",
+      "locale": "es-CO",
+      "callingCode": "+57",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "BR",
+    "slug": "Brazil",
+    "label": "Brazil",
+    "language": "pt",
+    "language_label": "Brazilian Portuguese",
+    "locale": "pt-BR",
+    "dial": "+55",
+    "currency": "BRL",
+    "symbol": "R$",
+    "bundle": "pt_br",
+    "currency_position": "prefix",
+    "rate": 5.57327642,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "native_name": "Brasil",
+    "file": "PrimeTV_Premium_Brazil_BR.zip",
+    "bytes": 29351272,
+    "sha256": "d41e9ca725dc9e4b70cdddd379f9e48aa1c60c266ae0efda58879285befb7c96",
+    "currency_symbol": "R$",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "BRL",
+      "symbol": "R$",
+      "rate_per_eur": 5.57327642,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "BRL": "83.60",
+          "display": "R$ 83,60"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "BRL": "142.40",
+          "display": "R$ 142,40"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "BRL": "167.14",
+          "display": "R$ 167,14"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "BRL": "200.58",
+          "display": "R$ 200,58"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "BRL": "253.86",
+          "display": "R$ 253,86"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "BRL": "278.61",
+          "display": "R$ 278,61"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "BRL": "334.34",
+          "display": "R$ 334,34"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "BRL": "445.81",
+          "display": "R$ 445,81"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "BRL": "588.26",
+          "display": "R$ 588,26"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "BRL": "685.46",
+          "display": "R$ 685,46"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "BRL": "1114.60",
+          "display": "R$ 1.114,60"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "89.12",
+          "3 Months": "195.01",
+          "6 Months": "334.34",
+          "12 Months": "445.81"
+        },
+        "2 Devices": {
+          "1 Month": "122.56",
+          "3 Months": "306.47",
+          "6 Months": "445.81",
+          "12 Months": "668.74"
+        },
+        "3 Devices": {
+          "1 Month": "172.72",
+          "3 Months": "390.07",
+          "6 Months": "534.98",
+          "12 Months": "975.27"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "BR",
+      "locale": "pt-BR",
+      "callingCode": "+55",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "AR",
+    "slug": "Argentina",
+    "label": "Argentina",
+    "language": "es",
+    "language_label": "Argentinian Spanish",
+    "locale": "es-AR",
+    "dial": "+54",
+    "currency": "ARS",
+    "symbol": "$",
+    "bundle": "es_ar",
+    "currency_position": "prefix",
+    "rate": 1694.93321508,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "native_name": "Argentina",
+    "file": "PrimeTV_Premium_Argentina_AR.zip",
+    "bytes": 29313506,
+    "sha256": "2f38c89ae598c2176a72d41f967d01429eb4acd82bd4e2ddcc245f1153e76e94",
+    "currency_symbol": "$",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "ARS",
+      "symbol": "$",
+      "rate_per_eur": 1694.93321508,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "ARS": "25424.00",
+          "display": "$ 25.424,00"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "ARS": "43305.54",
+          "display": "$ 43.305,54"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "ARS": "50831.05",
+          "display": "$ 50.831,05"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "ARS": "61000.65",
+          "display": "$ 61.000,65"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "ARS": "77204.21",
+          "display": "$ 77.204,21"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "ARS": "84729.71",
+          "display": "$ 84.729,71"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "ARS": "101679.04",
+          "display": "$ 101.679,04"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "ARS": "135577.71",
+          "display": "$ 135.577,71"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "ARS": "178900.20",
+          "display": "$ 178.900,20"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "ARS": "208459.84",
+          "display": "$ 208.459,84"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "ARS": "338969.69",
+          "display": "$ 338.969,69"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "27101.98",
+          "3 Months": "59305.71",
+          "6 Months": "101679.04",
+          "12 Months": "135577.71"
+        },
+        "2 Devices": {
+          "1 Month": "37271.58",
+          "3 Months": "93204.38",
+          "6 Months": "135577.71",
+          "12 Months": "203375.04"
+        },
+        "3 Devices": {
+          "1 Month": "52525.98",
+          "3 Months": "118628.38",
+          "6 Months": "162696.64",
+          "12 Months": "296596.36"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "AR",
+      "locale": "es-AR",
+      "callingCode": "+54",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "CA",
+    "slug": "Canada",
+    "label": "Canada",
+    "language": "en",
+    "language_label": "Canadian English",
+    "locale": "en-CA",
+    "dial": "+1",
+    "currency": "CAD",
+    "symbol": "C$",
+    "bundle": "en_ca",
+    "currency_position": "prefix",
+    "rate": 1.59468036,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "native_name": "Canada",
+    "file": "PrimeTV_Premium_Canada_CA.zip",
+    "bytes": 29304338,
+    "sha256": "95900d0ad2bf4947eb4d6f0e30dbe546f314f2d205486b10d9bfb9f9ebed62d6",
+    "currency_symbol": "C$",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "CAD",
+      "symbol": "C$",
+      "rate_per_eur": 1.59468036,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "CAD": "23.92",
+          "display": "C$ 23.92"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "CAD": "40.74",
+          "display": "C$ 40.74"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "CAD": "47.82",
+          "display": "C$ 47.82"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "CAD": "57.39",
+          "display": "C$ 57.39"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "CAD": "72.64",
+          "display": "C$ 72.64"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "CAD": "79.72",
+          "display": "C$ 79.72"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "CAD": "95.66",
+          "display": "C$ 95.66"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "CAD": "127.56",
+          "display": "C$ 127.56"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "CAD": "168.32",
+          "display": "C$ 168.32"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "CAD": "196.13",
+          "display": "C$ 196.13"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "CAD": "318.92",
+          "display": "C$ 318.92"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "25.50",
+          "3 Months": "55.80",
+          "6 Months": "95.66",
+          "12 Months": "127.56"
+        },
+        "2 Devices": {
+          "1 Month": "35.07",
+          "3 Months": "87.69",
+          "6 Months": "127.56",
+          "12 Months": "191.35"
+        },
+        "3 Devices": {
+          "1 Month": "49.42",
+          "3 Months": "111.61",
+          "6 Months": "153.07",
+          "12 Months": "279.05"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "CA",
+      "locale": "en-CA",
+      "callingCode": "+1",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  },
+  {
+    "code": "SA",
+    "slug": "Saudi_Arabia",
+    "label": "Saudi Arabia",
+    "language": "ar",
+    "language_label": "Arabic",
+    "locale": "ar-SA",
+    "dial": "+966",
+    "currency": "SAR",
+    "symbol": "ر.س",
+    "bundle": "ar",
+    "currency_position": "suffix",
+    "rate": 4.19066825,
+    "rate_date": "2026-10-13",
+    "rate_source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+    "decimals": 2,
+    "currency_space": true,
+    "direction": "rtl",
+    "native_name": "المملكة العربية السعودية",
+    "file": "PrimeTV_Premium_Saudi_Arabia_SA.zip",
+    "bytes": 29166318,
+    "sha256": "248caf0adf9f616ee8f9e1d28aa66db2a7bb725fa02b256001a3ad2f0de47b77",
+    "currency_symbol": "ر.س",
+    "numeric_prices_changed": true,
+    "exchange_rate_conversion": true,
+    "conversion": {
+      "base_currency": "EUR",
+      "currency": "SAR",
+      "symbol": "ر.س",
+      "rate_per_eur": 4.19066825,
+      "reference_date": "2026-10-13",
+      "source": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2026-10-13/v1/currencies/eur.json",
+      "rounding": "Decimal ROUND_HALF_UP, two decimal places; local separators and currency symbol",
+      "homepage_prices": {
+        "15.00": {
+          "EUR": "15.00",
+          "SAR": "62.86",
+          "display": "٦٢٫٨٦ ر.س"
+        },
+        "25.55": {
+          "EUR": "25.55",
+          "SAR": "107.07",
+          "display": "١٠٧٫٠٧ ر.س"
+        },
+        "29.99": {
+          "EUR": "29.99",
+          "SAR": "125.68",
+          "display": "١٢٥٫٦٨ ر.س"
+        },
+        "35.99": {
+          "EUR": "35.99",
+          "SAR": "150.82",
+          "display": "١٥٠٫٨٢ ر.س"
+        },
+        "45.55": {
+          "EUR": "45.55",
+          "SAR": "190.88",
+          "display": "١٩٠٫٨٨ ر.س"
+        },
+        "49.99": {
+          "EUR": "49.99",
+          "SAR": "209.49",
+          "display": "٢٠٩٫٤٩ ر.س"
+        },
+        "59.99": {
+          "EUR": "59.99",
+          "SAR": "251.40",
+          "display": "٢٥١٫٤٠ ر.س"
+        },
+        "79.99": {
+          "EUR": "79.99",
+          "SAR": "335.21",
+          "display": "٣٣٥٫٢١ ر.س"
+        },
+        "105.55": {
+          "EUR": "105.55",
+          "SAR": "442.33",
+          "display": "٤٤٢٫٣٣ ر.س"
+        },
+        "122.99": {
+          "EUR": "122.99",
+          "SAR": "515.41",
+          "display": "٥١٥٫٤١ ر.س"
+        },
+        "199.99": {
+          "EUR": "199.99",
+          "SAR": "838.09",
+          "display": "٨٣٨٫٠٩ ر.س"
+        }
+      },
+      "order_prices_eur": {
+        "1 Device": {
+          "1 Month": "15.99",
+          "3 Months": "34.99",
+          "6 Months": "59.99",
+          "12 Months": "79.99"
+        },
+        "2 Devices": {
+          "1 Month": "21.99",
+          "3 Months": "54.99",
+          "6 Months": "79.99",
+          "12 Months": "119.99"
+        },
+        "3 Devices": {
+          "1 Month": "30.99",
+          "3 Months": "69.99",
+          "6 Months": "95.99",
+          "12 Months": "174.99"
+        }
+      },
+      "order_prices_local": {
+        "1 Device": {
+          "1 Month": "67.01",
+          "3 Months": "146.63",
+          "6 Months": "251.40",
+          "12 Months": "335.21"
+        },
+        "2 Devices": {
+          "1 Month": "92.15",
+          "3 Months": "230.44",
+          "6 Months": "335.21",
+          "12 Months": "502.84"
+        },
+        "3 Devices": {
+          "1 Month": "129.87",
+          "3 Months": "293.30",
+          "6 Months": "402.26",
+          "12 Months": "733.33"
+        }
+      },
+      "automatic_rate_updates": false
+    },
+    "tests": {
+      "code": "SA",
+      "locale": "ar-SA",
+      "callingCode": "+966",
+      "passed": true,
+      "priceOptions": 12,
+      "popups": 7,
+      "checks": [
+        "converted prices match source rates and submitted values stay unchanged",
+        "local currency formatting and selected country",
+        "default country and reset",
+        "required validation",
+        "mocked success/error submission",
+        "selection summary",
+        "FAQ and pricing tabs",
+        "localized navigation",
+        "mobile layout"
+      ],
+      "externalArchiveResourcesBlocked": 6
+    }
+  }
+]
